@@ -1,6 +1,6 @@
 # Klyrhon Miko R. Aurel
 
-Software Developer · BS Information Technology · Pamantasan ng Lungsod ng Pasig '27
+Software Developer · BS Information Technology · Pamantasan ng Lungsod ng Pasig
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=vercel&logoColor=fff)](https://klyrhon.tech)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/klyrhon)

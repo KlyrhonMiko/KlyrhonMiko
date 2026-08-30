@@ -21,5 +21,6 @@ Open to internship opportunities and collaborations.
 
 ### Featured Projects
 
-- [**nulll**](https://github.com/KlyrhonMiko/nulll) — Interactive algorithm visualizer and code execution environment built with Next.js, Pyodide, and Tailwind CSS.
+- [**Nulll**](https://github.com/KlyrhonMiko/nulll) — Interactive algorithm visualizer and code execution environment built with Next.js, Pyodide, and Tailwind CSS.
 - [**Koin**](https://github.com/KlyrhonMiko/koin) — Modern and interactive personal finance tracker built with Flutter, Dart, Riverpod, and SQLite.
+- [**Pars.**](https://usepars.vercel.app) — AI-powered ATS resume builder with real-time preview, smart bullet optimization, and instant PDF export.
